@@ -1,3 +1,5 @@
 <?php
 
-echo 'Hello!';
+echo 'Hello World!';
+echo '<hr>';
+echo 'This is a test!';
